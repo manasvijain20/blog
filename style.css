@@ -1,0 +1,13 @@
+body{
+    color: black;
+    background-color: khaki;
+}
+.travel_mainDiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;    
+}
+.trave_mainDiv img{
+    width: 100%;
+}
